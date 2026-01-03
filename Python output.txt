@@ -1,0 +1,18 @@
+Hello! Enter your name: Manvardhan Tripathi
+Good Evening Manvardhan Tripathi
+Hello! Welcome to Rule Based Chatbot
+You can ask me basic questions. Type bye to exit from the bot.
+Please ask your questions. Hello
+Bot response is: Hi . Welcome. How Can I help You?
+Please ask your questions. How are you
+Bot response is: I am not able to tell yet! I will tell after sometime.
+Please ask your questions. How are you?
+Bot response is: I am very fine. Thank You.
+Please ask your questions. Who are you?
+Bot response is: I am smart AI Chatbot.
+Please ask your questions. Motivate me
+Bot response is: Keep going. Every bug of your project makes you a better coder.
+Please ask your questions. Happy
+Bot response is: Great to hear that
+Please ask your questions. Bye
+Bot response is: I am not able to tell yet. I will tell after sometime.
